@@ -1,0 +1,14 @@
+/Users/macmichal/repos/FolderSynchronizer/FolderSynchronizer/bin/Debug/net9.0/FolderSynchronizer
+/Users/macmichal/repos/FolderSynchronizer/FolderSynchronizer/bin/Debug/net9.0/FolderSynchronizer.deps.json
+/Users/macmichal/repos/FolderSynchronizer/FolderSynchronizer/bin/Debug/net9.0/FolderSynchronizer.runtimeconfig.json
+/Users/macmichal/repos/FolderSynchronizer/FolderSynchronizer/bin/Debug/net9.0/FolderSynchronizer.dll
+/Users/macmichal/repos/FolderSynchronizer/FolderSynchronizer/bin/Debug/net9.0/FolderSynchronizer.pdb
+/Users/macmichal/repos/FolderSynchronizer/FolderSynchronizer/obj/Debug/net9.0/FolderSynchronizer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macmichal/repos/FolderSynchronizer/FolderSynchronizer/obj/Debug/net9.0/FolderSynchronizer.AssemblyInfoInputs.cache
+/Users/macmichal/repos/FolderSynchronizer/FolderSynchronizer/obj/Debug/net9.0/FolderSynchronizer.AssemblyInfo.cs
+/Users/macmichal/repos/FolderSynchronizer/FolderSynchronizer/obj/Debug/net9.0/FolderSynchronizer.csproj.CoreCompileInputs.cache
+/Users/macmichal/repos/FolderSynchronizer/FolderSynchronizer/obj/Debug/net9.0/FolderSynchronizer.dll
+/Users/macmichal/repos/FolderSynchronizer/FolderSynchronizer/obj/Debug/net9.0/refint/FolderSynchronizer.dll
+/Users/macmichal/repos/FolderSynchronizer/FolderSynchronizer/obj/Debug/net9.0/FolderSynchronizer.pdb
+/Users/macmichal/repos/FolderSynchronizer/FolderSynchronizer/obj/Debug/net9.0/FolderSynchronizer.genruntimeconfig.cache
+/Users/macmichal/repos/FolderSynchronizer/FolderSynchronizer/obj/Debug/net9.0/ref/FolderSynchronizer.dll
